@@ -1,4 +1,5 @@
-[BAFS_MC_操練.html](https://github.com/user-attachments/files/31812985/BAFS_MC_.html)
+[BAFS_MC_操練.html](https://github.com/user-attachments/files/31813241/BAFS_MC_.html)
+<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
